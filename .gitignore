@@ -4,3 +4,5 @@ vectorstore/*
 .DS_Store
 .python-version
 .ipynb_checkpoints/*
+*.pdf
+*.png
